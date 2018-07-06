@@ -33,7 +33,6 @@ One Cerner Style Icons Changelog
 	* information_low_light
 	* information_inverse_low_light
 	* error_low_light
-	* incomplete_low_light
 	* incomplete_inverse_low_light
 	* help_low_light
 	* help_inverse_low_light
